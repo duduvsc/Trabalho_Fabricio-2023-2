@@ -1,3 +1,10 @@
+Assisti os vídeos exemplo e o link a seguir para me ajudar no trabalho e no desenvolvimento: https://www.youtube.com/watch?v=qEBoZ8lJR3k&t=1486s
+criei conta no mongodb para armazenar documentos em JSON
+criei conta no postman para testar as solicitações HTTP
+e deixei as instruções abaixo que eu segui.
+
+
+
 # Api Rest de Autenticação JWT com sistema CRUD construído em Node.js, Express e MongoDB Atlas.
 
 Api Rest Node.js e Express com autenticação de usuário utilizando JWT(Json Web Token), Nodemailer para recuperação de senha, MongoDB Atlas para serviços de armazenamento de dados na nuvem e um sistema CRUD para cadastro, leitura, atualização e exclusão de projetos e suas tarefas.
